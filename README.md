@@ -1,4 +1,6 @@
-![giphy](https://github.com/user-attachments/assets/2e2f72f2-d804-426d-ae7d-73b897b9e5e5)
+![giphy](https://github.com/user-attachments/assets/2e2f72f2-d804-426d-ae7d-73b897b9e5e5) Projects  
+                                                                                          Website  
+                                                                                          Find Me:
 
 
 <!--
