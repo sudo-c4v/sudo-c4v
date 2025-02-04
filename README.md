@@ -1,5 +1,5 @@
 
-# Your friendly neighborhood skid.
+Your friendly neighborhood skid.
 
 <!--
 **sudo-c4v/sudo-c4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
